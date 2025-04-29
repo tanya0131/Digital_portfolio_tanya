@@ -21,6 +21,11 @@ export function TechStack() {
         direction="left"
         speed="slow"
       />
+      <InfiniteMovingCards
+        items={testimonials4}
+        direction="right"
+        speed="slow"
+      />
     </div>
   );
 }

@@ -72,10 +72,10 @@ function ContactMe() {
       <div className="flex flex-col items-center gap-y-4 justify-center w-full md:w-1/3 text-white-500 font-bold">
         <div className="text-4xl text-green-700">Like my work?</div>
         <div className="text-2xl flex" aria-label="Phone number">
-          <PhoneOutgoing className="mr-2 mt-1" />: +919262348758
+          <PhoneOutgoing className="mr-2 mt-1" />: +917273800270
         </div>
         <div className="flex text-2xl ml-6" aria-label="Email address">
-          <Mails className="mr-2 mt-1" />: rajtilakpandey01@gmail.com
+          <Mails className="mr-2 mt-1" />: tanyakumari0131@gmail.com
         </div>
       </div>
       <div className="flex justify-center p-10 w-full md:w-2/3">
