@@ -47,4 +47,10 @@ export const projects = [
       "This project focuses on developing a deep learning model using Generative Adversarial Networks (GANs) that can take text descriptions as input and generate corresponding images. The model learns from a dataset of text-image pairs and creates visually accurate images based on provided text prompts. Finally, we present the findings and results of our study show that the diffusion model, with an accuracy of 76 percentage, out performed the GANs Model, which had an accuracy of 56 percentage.",
     link: "https://drive.google.com/file/d/1jdLmyUvQT9OEWTbHyiodrn2da3mN1RxK/view?usp=sharing",
   },
+  {
+    title: "Deepfake video detection",
+    description:
+      "This project investigates the use of temporal motion analysis and deep learning techniques to detect deepfake videos. It combines optical flow analysis with an EfficientNet-based classifier to build a system that can learn from video motion patterns and accurately distinguish between real and fake content.",
+    link: "https://colab.research.google.com/drive/10npDJ4jDVJpOkWXSph-N6MplUFdSv9Zg#scrollTo=tGOwoiqELA39 ",
+  },
 ];
